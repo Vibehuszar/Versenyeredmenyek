@@ -9,8 +9,8 @@ let sportok: Results[] = [
     new Football("Német", "3-1"),
     new Marathon ("Laci", 34),
     new Marathon ("Gábor", 50),
-    new Calvinball("Css"),
-    new Calvinball("ads")
+    new Calvinball("Calvin"),
+    new Calvinball("Hobb")
 ];
 
 
